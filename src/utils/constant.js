@@ -1,2 +1,1 @@
-export const BASE_URL="http://localhost:5000/api" //local
-// BASE_URL="http://localhost:5000/api"   //production
+export const BASE_URL = "https://siliconleaf-server-production.up.railway.app/api";
