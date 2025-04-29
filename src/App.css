@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+input, textarea, button {
+  outline: none;
+}
+
+button:hover {
+  opacity: 0.9;
+}
